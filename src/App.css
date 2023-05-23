@@ -1,0 +1,21 @@
+.flex {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+}
+
+.image-tabla {
+  width: 100px;
+}
+
+.iconos {
+  font-size: 60px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.border {
+  border: 1px solid grey;
+}
